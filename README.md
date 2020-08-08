@@ -4,9 +4,9 @@ this is a sample project developed in unity .
 It is in webgl format you can clone the files attached to the repository please run it in mozila firefox.
 KINDLY FOLLOW THESE INSTRUCTION
 
-step 1:-type "about:config" in the url bar of mozila firefox step 
+step 1:-type "about:config" in the url bar of mozila firefox 
 
-2:- type "webgl.disabled" and set it to false 
+step 2:- type "webgl.disabled" and set it to false 
 
 step 3:- type "webgl.force-disabled" and change it to enabled 
 
