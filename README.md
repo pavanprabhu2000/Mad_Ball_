@@ -14,7 +14,7 @@ step 4: type "privacy.file_unique_origin" and set it to true
 
 step 5:-in advance settings check the box "use hardware accleration when avilable"
 
-step 6:-(when the above steps are completed) run the (index.html) file in mozila browser which u have cloned. Move the ball around using the arrow keys. 
+step 6:-(when the above steps are completed) unzip and run the (index.html) file in mozila web browser. Move the ball around using the arrow keys. 
 Collect the coins  and beat the score limit to proceed .
 
 enjoy the Mad_Ball_ :-)
