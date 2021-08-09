@@ -1,5 +1,7 @@
 # Mad_Ball_
 
+#WebGL
+
 this is a sample project developed in unity .
 It is in webgl format you can clone the files attached to the repository please run it in mozila firefox.
 KINDLY FOLLOW THESE INSTRUCTION
